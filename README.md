@@ -97,3 +97,13 @@ Bags by Baariu project owner and developer.
 ---
 
 *Built with HTML, CSS, Git, GitHub, and Amazon Web Services.*
+## Screenshots
+
+### Homepage
+![Bags by Baariu homepage](screenshots/homepage.png)
+
+### Product Catalogue
+![Bags by Baariu product catalogue](screenshots/products.png)
+
+### Mobile View
+![Bags by Baariu mobile view](screenshots/mobile-view.png)
